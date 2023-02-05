@@ -1,0 +1,20 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Networking course project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --no-warnings main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  },
+  "dependencies": {
+    "is-arrayish": "^0.3.2",
+    "jsdom": "^21.1.0"
+  }
+}
